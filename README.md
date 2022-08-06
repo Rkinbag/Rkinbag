@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning tensorflow framework and learning PowerBI and Tableau 
 - 📫 How to reach me rkmaster2002@gmail.com
 
+###Want to connect ?
+[Mail](f20201258@pilani.bits-pilani.ac.in)  [Instagram](https://www.instagram.com/manwithabazooka/) [Linkedin](https://www.linkedin.com/in/rahul-kiroriwal-3339)
+
 
 ![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=Rkinbag&show_icons=true&theme=radical)
 
@@ -14,7 +17,6 @@
 
 
 
-[![Rahul's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rkinbag&theme=dracula)](https://github.com/Rkinbag/github-readme-activity-graph)
 <!---
 Rkinbag/Rkinbag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
