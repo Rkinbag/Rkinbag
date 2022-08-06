@@ -4,7 +4,7 @@
 - 📫 How to reach me rkmaster2002@gmail.com
 
 
-![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=Rkinbag)
+![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=Rkinbag&show_icons=true&theme=radical)
 
 
 
