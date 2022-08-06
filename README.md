@@ -5,7 +5,7 @@
 
 ### Want to connect ?  
 
-[Mail](f20201258@pilani.bits-pilani.ac.in)  [Instagram](https://www.instagram.com/manwithabazooka/) [Linkedin](https://www.linkedin.com/in/rahul-kiroriwal-3339)
+[Mail](f20201258@pilani.bits-pilani.ac.in)  [Instagram](https://www.instagram.com/manwithabazooka/) [Linkedin](https://www.linkedin.com/in/rahul-kiroriwal-333936215/)
 
 
 ![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=Rkinbag&show_icons=true&theme=radical)
