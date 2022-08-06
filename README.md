@@ -2,6 +2,7 @@
 - 👀 I’m interested in Data Science and Machine learning algorithms along with data analytics
 - 🌱 I’m currently learning tensorflow framework and learning PowerBI and Tableau 
 - 📫 How to reach me rkmaster2002@gmail.com
+![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=Rkinbag)
 
 <!---
 Rkinbag/Rkinbag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
