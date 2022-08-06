@@ -9,7 +9,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rkinbag)](https://github.com/Rkinbag/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rkinbag&show_icons=true&theme=radical)](https://github.com/Rkinbag/github-readme-stats)
 
 <!---
 Rkinbag/Rkinbag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
