@@ -12,19 +12,12 @@
 	</a>
 <a href="https://www.instagram.com/manwithabazooka/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white	"/>
 </a>
-
-	
-	
-
-
- 
-  
 </div>
 
 
 
 
-[Mail](f20201258@pilani.bits-pilani.ac.in)  [Instagram](https://www.instagram.com/manwithabazooka/) [Linkedin](https://www.linkedin.com/in/rahul-kiroriwal-333936215/)
+[Mail](f20201258@pilani.bits-pilani.ac.in)[Instagram](https://www.instagram.com/manwithabazooka/) [Linkedin](https://www.linkedin.com/in/rahul-kiroriwal-333936215/)
 
 
 ### My Stats  
