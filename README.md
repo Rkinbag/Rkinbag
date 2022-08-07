@@ -20,9 +20,10 @@
 [Instagram](https://www.instagram.com/manwithabazooka/) 
 
 
-### My Stats  
+### :fire: My Stats : 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rkinbag)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=Dracula&background=000000)](https://git.io/streak-stats)
+
 
 
 
