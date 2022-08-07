@@ -17,7 +17,7 @@
 
 
 
-[Mail](f20201258@pilani.bits-pilani.ac.in)[Instagram](https://www.instagram.com/manwithabazooka/) [Linkedin](https://www.linkedin.com/in/rahul-kiroriwal-333936215/)
+[Instagram](https://www.instagram.com/manwithabazooka/) 
 
 
 ### My Stats  
