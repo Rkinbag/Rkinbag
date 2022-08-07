@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning tensorflow framework and learning PowerBI and Tableau 
 - 📫 How to reach me rkmaster2002@gmail.com
 
+#### Google Colaboratory is love :heart:
+
 ### Want to connect ?  
 <div id="badges">
   <a href="https://www.linkedin.com/in/rahul-kiroriwal-333936215/">
