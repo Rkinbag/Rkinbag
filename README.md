@@ -1,10 +1,4 @@
-<p align="center">
-
-<img width="200" height="200" src="https://user-images.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt="my banner">
-
-</p>  
-																	 
-- 👋 Hi, I’m Rahul Kiroriwal
+-👋 Hi, I’m Rahul Kiroriwal
 - 👀 I’m interested in Data Science and Machine learning algorithms along with data analytics
 - 🌱 I’m currently learning tensorflow framework and learning PowerBI and Tableau 
 - 📫 How to reach me rkmaster2002@gmail.com
@@ -14,11 +8,14 @@
   <a href="https://www.linkedin.com/in/rahul-kiroriwal-333936215/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="f20201258@pilani.bits-pilani.ac.in">
-    <img src="https://img.shields.io/badge/Mail?style=for-the-badge&logo=mail&logoColor=white" alt="Mail Badge"/>
-  </a>
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+
+ 
   
 </div>
+
+
+
 
 [Mail](f20201258@pilani.bits-pilani.ac.in)  [Instagram](https://www.instagram.com/manwithabazooka/) [Linkedin](https://www.linkedin.com/in/rahul-kiroriwal-333936215/)
 
