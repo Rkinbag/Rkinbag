@@ -8,6 +8,8 @@
   <a href="https://www.linkedin.com/in/rahul-kiroriwal-333936215/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+<a href="mailto:rkmaster2002@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
+	</a>
 	
 
 
