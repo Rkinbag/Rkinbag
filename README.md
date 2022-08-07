@@ -8,7 +8,8 @@
   <a href="https://www.linkedin.com/in/rahul-kiroriwal-333936215/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<img src="https://komarev.com/ghpvc/?username=Rkinbag&style=flat-square&color=blue" alt=""/>
+	
+
 
  
   
@@ -20,7 +21,10 @@
 [Mail](f20201258@pilani.bits-pilani.ac.in)  [Instagram](https://www.instagram.com/manwithabazooka/) [Linkedin](https://www.linkedin.com/in/rahul-kiroriwal-333936215/)
 
 
-![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=Rkinbag&show_icons=true&theme=radical)
+### My Stats  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rkinbag&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
