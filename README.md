@@ -10,6 +10,15 @@
 - 📫 How to reach me rkmaster2002@gmail.com
 
 ### Want to connect ?  
+<div id="badges">
+  <a href="https://www.linkedin.com/in/rahul-kiroriwal-333936215/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="f20201258@pilani.bits-pilani.ac.in">
+    <img src="https://img.shields.io/badge/Mail?style=for-the-badge&logo=mail&logoColor=white" alt="Mail Badge"/>
+  </a>
+  
+</div>
 
 [Mail](f20201258@pilani.bits-pilani.ac.in)  [Instagram](https://www.instagram.com/manwithabazooka/) [Linkedin](https://www.linkedin.com/in/rahul-kiroriwal-333936215/)
 
