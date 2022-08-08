@@ -2,8 +2,8 @@
 - 👀 I’m interested in Data Science and Machine learning algorithms along with data analytics
 - 🌱 I’m currently learning tensorflow framework and learning PowerBI and Tableau 
 - 📫 How to reach me rkmaster2002@gmail.com or f20201258@pilani.bits-pilani.ac.in  
-<div id="banner">
-<iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+
 
 
 
