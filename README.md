@@ -8,7 +8,7 @@
 
 
 
-### Google Colaboratory and  is love :heart:
+#### Google Colaboratory is love :heart:
 
 ### Want to connect ?  
 <div id="badges">
