@@ -16,7 +16,7 @@
   </a>
 <a href="mailto:rkmaster2002@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
 	</a>
-<a href="https://www.instagram.com/manwithabazooka/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white	"/>
+<a href="[https://www.instagram.com/manwithabazooka](https://www.instagram.com/rahul.kiroriwal18/)/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white	"/>
 </a>
 </div>
 
